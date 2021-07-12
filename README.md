@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmandaSSalles
 - 👀 I’m interested in UX/UI Design
 - 🌱 I’m currently learning html, css, java script & python
-- 💞️ I’m looking forward to collaborate on building apps and websites
+- 💞️ I’m looking forward to collaborating on building apps and websites
 - 📫 How to reach me: send me a message here
 
 <!---
