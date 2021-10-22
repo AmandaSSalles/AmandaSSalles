@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AmandaSSalles
 - 👀 I’m interested in UX/UI Design
 - 🌱 I’m currently learning html, css, java script & python
-- 💞️ I’m looking forward to collaborating on building apps and websites
-- 📫 How to reach me: send me a message here
+- 💞️ Here I'll be sharing small steps of my learning process
 
 <!---
 AmandaSSalles/AmandaSSalles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
